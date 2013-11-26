@@ -19,16 +19,13 @@ For example:
 
 could generate:
 
-F
-
+F  
 7
 
 or:
 
-Eb
-
-6
-
+Eb  
+6  
 4
 
 figbass currently allows for triads and seventh chords in all inversions.
