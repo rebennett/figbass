@@ -15,7 +15,7 @@ then figbass can be called with a specified key, with syntax:
 
     ~$ ./figbass {key}
 
-where {key} can be any of the following keys: C, c, C#, c#, D, d, Eb, eb, E, e, F, f, F#, f#, G#, g#, A, a, Ab, ab, Bb, bb, B, or b, with an uppercase letter denoting a major key and a lowercase letter denoting a minor key
+where {key} can be any of the following keys: C, c, C#, c#, Db, db, D, d, Eb, eb, E, e, F, f, F#, f#, Gb, gb, G, g, G#, g#, Ab, ab, A, a, Bb, bb, B, or b, with an uppercase letter denoting a major key and a lowercase letter denoting a minor key
 
 For example:
 
